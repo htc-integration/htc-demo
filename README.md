@@ -1,4 +1,4 @@
-# GitHub Repository 2
+# GitHub Repository 3
 
 > This Terraform Module manages the lifecycle of GitHub Repositories and associated resources.
 
